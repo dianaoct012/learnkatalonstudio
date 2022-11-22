@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CDC BOOTCAMPMANAGEMENTSign inLogin with_94af73</name>
+   <tag></tag>
+   <elementGuidId>e33f8e0f-14f2-4a0c-afb7-2087ac0ccfff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>345142f0-da41-465c-b27a-b9fba676de48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CDC BOOTCAMPMANAGEMENTSign inLogin with Microsoft
+                    .white-card{
+                        background-color:white;
+                        box-shadow:0px 14px 34px rgba(0, 0, 0, 0.15);
+                        border-radius:10px;
+                        width:100%;
+                        height:100%;
+                    }
+                    </value>
+      <webElementGuid>9c14cf31-9a17-4e41-a4e3-d95daef01c0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[1]/div[3]</value>
+      <webElementGuid>4b09d177-2480-44f2-a52e-c92a07642ba4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]</value>
+      <webElementGuid>58e19ffb-ab90-49dc-97f0-58b982d5e1ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>de2a1586-470f-47e6-b733-d72e4b5dd229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CDC BOOTCAMPMANAGEMENTSign inLogin with Microsoft
+                    .white-card{
+                        background-color:white;
+                        box-shadow:0px 14px 34px rgba(0, 0, 0, 0.15);
+                        border-radius:10px;
+                        width:100%;
+                        height:100%;
+                    }
+                    ' or . = 'CDC BOOTCAMPMANAGEMENTSign inLogin with Microsoft
+                    .white-card{
+                        background-color:white;
+                        box-shadow:0px 14px 34px rgba(0, 0, 0, 0.15);
+                        border-radius:10px;
+                        width:100%;
+                        height:100%;
+                    }
+                    ')]</value>
+      <webElementGuid>5388a739-c6ca-41be-b746-7cd9c34ca651</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
